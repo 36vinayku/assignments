@@ -20,3 +20,4 @@ class Pointer(object):
 		x=self.x
 		y=self.y
 		print(x,y)
+	#adding a comment to check my hystory
